@@ -46,7 +46,7 @@ This program builds multiple binary search trees, where each tree has a name. Ea
 
 2. Use "gcc -g main.c" to generate a program file from the .c file.
 
-3. You can now run the program while passing in your input file with this command: "./a.out input_file.txt".
+3. You can now run the program while passing in your input file with this command: "./a.out in.txt".
 
 4. The expected output will be shown directly in the terminal.
 
