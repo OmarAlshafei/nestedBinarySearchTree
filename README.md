@@ -46,9 +46,9 @@ This program builds a nested binary search tree data structure where every node 
 
 2. Use "gcc -g main.c" to generate a program file from the .c file.
 
-3. You can now run the program while passing in your input file with this command: "./a.out in.txt".
+3. You can now run the program while passing in your input file with this command: "./a.out < in.txt > out.txt".
 
-4. The expected output will be shown directly in the terminal.
+4. The expected output will be shown in the "out.txt" file.
 
 ## Author
 
