@@ -1,6 +1,6 @@
 ## Binary Search Tree Program
 
-This program builds multiple binary search trees, where each tree has a name. Each node of the `treeNameNode` tree contains a binary search tree named `itemNode`, which includes the item's name and count. The program allows users to perform various operations and queries.
+This program builds a nested binary search tree data structure where every node in the main binary search tree contains another binary search tree. Each node of the `treeNameNode` tree contains a binary search tree named `itemNode`, which includes the item's name and count. The program allows users to perform various operations and queries.
 
 ### Structures
 
